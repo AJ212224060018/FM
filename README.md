@@ -25,14 +25,20 @@ Note: Keep all the switch faults in off position
 
 #### Define Parameters: 
   • Fs: Sampling frequency. 
+  
   • T: Duration of the signal. 
+  
   • Fc: Carrier frequency. 
-  • Fm: Frequency of the modulating signal. 
+  
+  • Fm: Frequency of the modulating signal.
+  
   • Beta: Modulation index, which controls the extent of frequency deviation.
 
 #### Generate Signals: 
   • modulating_signal: Sinusoidal signal used for modulation. 
+  
   • carrier_signal: The high-frequency carrier signal. 
+  
   • modulated_signal: FM modulated signal calculated by varying the carrier frequency according to the modulating signal.
 
 #### FM Modulation: 
@@ -40,7 +46,9 @@ Note: Keep all the switch faults in off position
 
 #### FM Demodulation: 
   • Differentiation: Computes the derivative of the modulated signal to extract frequency variations. 
+  
   • Envelope Detection: Takes the absolute value to retrieve the envelope of the signal. 
+  
   • Low-pass Filtering: Applies a Butterworth low-pass filter to smooth the envelope and recover the original modulating signal.
 
 #### Visualization: 
@@ -49,11 +57,16 @@ Note: Keep all the switch faults in off position
 ### Procedure:
 
 • Refer Algorithms and write code for the experiment. 
-• Open SCILAB in System 
-• Type your code in New Editor 
-• Save the file 
-• Execute the code 
-• If any Error, correct it in code and execute again
+
+• Open SCILAB in System.
+
+• Type your code in New Editor. 
+
+• Save the file.
+
+• Execute the code.
+
+• If any Error, correct it in code and execute again.
 
 ### Model Graph:
 
