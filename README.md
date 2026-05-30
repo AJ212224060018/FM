@@ -7,6 +7,7 @@ To generate and detect the frequency modulation and demodulation u s i n g S C I
 ### Equiptments Required:
 
 • Computer with i3 Processor
+
 • SCI LAB
 
 ### Theory:
