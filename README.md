@@ -87,6 +87,7 @@ plot(t,efm);
 ### Calculation:
 
 • ma (Theory) = am/ac = 2046.48
+
 • ma(Practical) = (Emax-Emin)/(Emax+Emin) = 4.96
 
 ### Result:
