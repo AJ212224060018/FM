@@ -97,12 +97,11 @@ plot(t,efm);
 
 ### Tabulation:
 
+<img width="918" height="1600" alt="image" src="https://github.com/user-attachments/assets/e686c4cc-f553-4b4f-b41f-1fb4fa1bfd3c" />
 
 ### Calculation:
 
-• ma (Theory) = am/ac = 2046.48
-
-• ma(Practical) = (Emax-Emin)/(Emax+Emin) = 4.96
+<img width="969" height="1600" alt="image" src="https://github.com/user-attachments/assets/56ce8315-3ed0-465c-b801-f4a5fe68ed81" />
 
 ### Result:
 Thus the amplitude modulation and demodulation is experimentally done and the output is verified.
