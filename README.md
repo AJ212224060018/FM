@@ -2,7 +2,7 @@
 
 ### Aim:
 
-To generate and detect the frequency modulation and demodulation u s i n g S C I L A B and to calculate modulation index of FM.
+To generate and detect the frequency modulation using S C I L A B and to calculate modulation index of FM.
 
 ### Equiptments Required:
 
